@@ -1,6 +1,6 @@
 # How To Start
-To Start We are gonna use Thunkable A Desiner And Code App
-![image](image.png)
-Open A App 
-![image](image_2.png)
-And Read The Next Page It Is In The next things Folder
+To start, we are going to use Thunkable, a designer and coding app,
+![image](Tutorials/next things/image.png)
+Open an app, 
+![image](Tutorials/next things/image_2.png)
+and then proceed to read the next page which is located in the 'Tutorials/next things' folder.
