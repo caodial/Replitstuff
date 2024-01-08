@@ -1,0 +1,12 @@
+name: Bug issue 
+title: ''
+description: For reporting bugs
+labels: bug
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Details
+      description: What exactly is not working
+      placeholder: |
+        ex: one of your releases is not working
