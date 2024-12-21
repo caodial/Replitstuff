@@ -1,14 +1,29 @@
 html {
   height: 100%;
   width: 100%;
-
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 button {
-	padding:8px;
-	background: #4e504f;
-	border:transparent 1px solid;
-	border-radius: 10px;
-	color:white;
-	cursor:pointer;
-	transition: 0.3s;
+  padding: 8px;
+  background: #4e504f;
+  border: transparent 1px solid;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: #3a3b3a;
+  transform: translateY(-1px);
 }
